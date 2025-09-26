@@ -13,7 +13,7 @@ const workData = [
      description: 'Developed a full-stack web application for LIC agents to manage insurance plans, blogs, and user inquiries, featuring distinct interfaces for users and admins. Built a secure REST API with Spring Boot, integrated JWT-based Spring Security, and designed a responsive React frontend. Deployed on Netlify and Render (backend) for scalable hosting.',
     technologies: ['Java', 'Spring Boot', 'Spring Security', 'REST API', 'React.js', 'MongoDB', 'Maven', 'Git', 'Netlify', 'Render'],
     image: 'https://i.ibb.co/JgYB0N9/lic.png',
-    liveDemoLink: 'https://rushikesh-aher.netlify.app/',
+    liveDemoLink: 'https://rushikgesh-aher.netlify.app/',
     viewMoreLink: '#',
   },
    {

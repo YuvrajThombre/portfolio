@@ -41,13 +41,13 @@ const AboutMe = () => {
         </p>
         {/* Social Icons */}
         <div className="flex space-x-6 mt-4">
-          <a href="https://github.com/Vishalmagars" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-purple-500 text-2xl transition duration-300">
+          <a href="https://github.com/YuvrajThombre" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-purple-500 text-2xl transition duration-300">
             <FaGithub />
           </a>
-          <a href="https://www.linkedin.com/in/i-vishal-magar/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-purple-500 text-2xl transition duration-300">
+          <a href="www.linkedin.com/in/yuvraj-thombre-42151b328" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-purple-500 text-2xl transition duration-300">
             <FaLinkedin />
           </a>
-          <a href="mailto:vishalmagar9579@gmail.com" className="text-cyan-400 hover:text-purple-500 text-2xl transition duration-300">
+          <a href="mailto:yuvrajthombre85@gmail.com" className="text-cyan-400 hover:text-purple-500 text-2xl transition duration-300">
             <FaEnvelope />
           </a>
         </div>
@@ -61,9 +61,9 @@ const AboutMe = () => {
       >
         <img
           src="/path-to-your-image.jpg"
-          alt="Vishal Magar"
+          alt="Yuvraj Thombre"
           className="absolute inset-0 w-full h-full object-cover"
-          onError={(e) => (e.target.src = 'https://i.ibb.co/r2XRnG4x/hero2.jpg')}
+          onError={(e) => (e.target.src = 'https://i.ibb.co/6cyxvJcG/hero2.jpg')}
         />
         <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-600 opacity-10 mix-blend-screen"></div>
       </motion.div>

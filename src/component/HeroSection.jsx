@@ -55,7 +55,7 @@ const HeroSection = () => {
               src="/path-to-your-image.jpg"
               alt="Vishal Magar"
               className="relative w-full h-full rounded-xl object-cover shadow-2xl"
-              onError={(e) => (e.target.src = 'https://i.ibb.co/YmfKWZW/hero1.jpg')}
+              onError={(e) => (e.target.src = 'https://i.ibb.co/0jHWLW0s/hero1.jpg')}
             />
           </div>
         </motion.div>
